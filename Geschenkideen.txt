@@ -1,3 +1,5 @@
 Buch
 Computer
 Sessel
+Ball
+Monitor
